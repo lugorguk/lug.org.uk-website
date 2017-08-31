@@ -23,10 +23,10 @@ layout: default
     {% for post in site.posts %}
       <tr>
         <th><a href="{{ post.url }}">{{ post.title | escape }}</a></th>
-        <td>{% if page.website and page.website != '' %}<a href="{{ post.website }}">{{ post.website }}</a>{% endif %}</td>
-        <td>{% if page.established_date and page.established_date != '' %}{{ post.established_date | date: "%Y/%m" }}{% endif %}</td>
+        <td>{% if post.website and post.website != '' %}<a href="{{ post.website }}">{{ post.website }}</a>{% endif %}</td>
+        <td>{% if post.established_date and post.established_date != '' %}{{ post.established_date | date: "%Y/%m" }}{% endif %}</td>
         <td>{{ post.status | default: 'Active' }}</td>
-        <td>{% if page.last_update and page.last_update != '' %}{{ post.last_update | date: "%Y/%m" }}{% endif %}</td>
+        <td>{% if post.last_update and post.last_update != '' %}{{ post.last_update | date: "%Y/%m" }}{% endif %}</td>
         <td>{{ post.categories | default: 'Virtual' }}</td>
       </tr>
     {% else %}
