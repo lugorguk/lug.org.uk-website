@@ -1,0 +1,1 @@
+{% for sponsor in include.sponsors.sponsors %}{% if forloop.length > 1 %}{% if forloop.first == true %}{% elsif forloop.last == true %} and {% else %}, {% endif %}{% endif %}<a href="{{ sponsor.url }}">{{ sponsor.name }}</a>{% endfor %}

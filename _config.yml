@@ -1,0 +1,19 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: UK Linux User Groups
+sponsors:
+  - name: BitFolk
+    url: http://bitfolk.com/
+  - name: Jump Networks
+    url: http://www.jump.net.uk/
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://lug.org.uk"
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
