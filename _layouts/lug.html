@@ -8,7 +8,7 @@ layout: default
 <strong>Website:</strong> <a href="{{ page.website }}">{{ page.website }}</a><br/>
 {% endif %}
 {% if page.established_date and page.established_date != '' %}
-<strong>Established:</strong> {{ page.date | date: "%Y/%m" }}<br/>
+<strong>Established:</strong> {{ page.established_date | date: "%Y/%m" }}<br/>
 {% endif %}
 {% if page.last_update and page.last_update != '' %}
 <strong>Entry last updated:</strong> {{ page.last_update | date: "%Y/%m" }}<br/>
