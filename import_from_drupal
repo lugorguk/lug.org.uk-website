@@ -1,0 +1,56 @@
+#!/usr/bin/env ruby
+
+require 'nokogiri'
+require 'open-uri'
+require 'yaml'
+require 'i18n'
+
+I18n.enforce_available_locales = false
+
+today = Time.now.strftime('%Y-%m-%d')
+
+doc = Nokogiri::HTML(open('https://lug.org.uk/uklugs'))
+doc.css('tbody tr').each do |row|
+  cells = row.css('th, td')
+  data = {
+    'title'       => cells[0].content.strip,
+    'website'     => cells[1].content.strip,
+    'established' => cells[2].content.strip,
+    'status'      => cells[3].content.strip,
+    'last_update' => cells[4].content.strip,
+    'region'      => cells[5].content.strip,
+    'more'        => cells[6].inner_html
+  }
+
+  if data['more'] =~ /.*\"([^\"]*)\"/i
+    data['url'] = "http://lug.org.uk"+$1
+    data['more'] = Nokogiri::HTML(open(data['url'])).css('.node').inner_html
+    if data['more'] =~ /LUGmaster:<[^<]*<a href=\"([^\"]*)">([^<]*)</i
+      data['contact_address'] = $1
+      data['contact_name'] = $2
+    end
+    if data['more'] =~ /list:<[^<]*<a href=\"([^\"]*)">/i
+      data['list'] = $1
+    end
+    data.delete('more')
+  end
+
+  file_name = I18n.transliterate(data['title'])
+  file_name = "0000-01-01-#{file_name}.md".gsub(/-+/, '-')
+
+#  data['name'] = file_name[11,file_name.length-14]
+#  data['description'].strip!
+#  data['provider'].strip!
+#  data['link'].strip!
+#  data['size'].strip!
+#  data['category'].strip!
+
+#  File.open("_posts/boxes/#{file_name}", 'w') do |file|
+#    file.puts YAML.dump(data)
+#    file.puts "---"
+#  end
+  print file_name
+  print "\r\n"
+  print data
+  print "\r\n"
+end
