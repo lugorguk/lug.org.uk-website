@@ -1,0 +1,14 @@
+---
+layout: lug
+title: Derbyshire - South
+website: ''
+established_date: 2000/04
+status: Active
+last_update: 01/2013
+categories: East-Midlands
+url: http://lug.org.uk/node/56
+contact_address: mailto:clare.lou1985@googlemail.com
+contact: Clare Currie
+mailing_list: https://mailman.lug.org.uk/mailman/listinfo/sderby/
+permalink: Derbyshire - South
+---

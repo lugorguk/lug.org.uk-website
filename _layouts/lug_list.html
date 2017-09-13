@@ -1,18 +1,20 @@
 ---
 layout: default
 ---
-
-<div class="home">
-
-  {{ content }}
-
   <h1 class="page-heading">Linux User Groups listings</h1>
-  
+<!--
+  <ul>
+  {% for category in site.categories %}
+  <li>{{ category[0] }}</li>
+  {% endfor %}
+  </ul>
+-->
+
   <table width=100%>
     <thead>
       <tr>
         <th>Title</th>
-        <th>Website</th>
+        <!-- <th>Website</th> -->
         <th>Established</th>
         <th>Status</th>
         <th>Entry last updated</th>
@@ -20,10 +22,10 @@ layout: default
       </tr>
     </thead>
     <tbody>
-    {% for post in site.posts %}
-      <tr>
+    {% assign sortedPosts = site.posts | sort: 'title' %}{% for post in sortedPosts %}
+      <tr{% cycle ' style="background-color: #f2f2f2"','' %}>
         <th><a href="{{ post.url }}">{{ post.title | escape }}</a></th>
-        <td>{% if post.website and post.website != '' %}<a href="{{ post.website }}">{{ post.website }}</a>{% endif %}</td>
+        <!-- <td>{% if post.website and post.website != '' %}<a href="{{ post.website }}">{{ post.website }}</a>{% endif %}</td> -->
         <td>{% if post.established_date and post.established_date != '' %}{{ post.established_date | date: "%Y/%m" }}{% endif %}</td>
         <td>{{ post.status | default: 'Active' }}</td>
         <td>{% if post.last_update and post.last_update != '' %}{{ post.last_update | date: "%Y/%m" }}{% endif %}</td>
@@ -35,6 +37,4 @@ layout: default
     </tbody>
   </table>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-</div>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
