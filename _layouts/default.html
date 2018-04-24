@@ -1,18 +1,41 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  {% include head.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+  </head>
   <body>
 
-    {% include header.html %}
+      <header>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      </header>
 
-    <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <nav>
+      <div class="trigger">
+      {% for a_page in site.pages %}
+        {% if a_page.title and a_page.url %}<p>{% if a_page.url == page.url %}<strong>{% endif %}<a href="{{ a_page.url }}">{{ a_page.title }}</a>{% if a_page.url == page.url %}</strong>{% endif %}</p>{% endif %}
+      {% endfor %}
+      </pre>
+      </nav>
+      <section>
         {{ content }}
-    </main>
 
-    {% include footer.html %}
-
+      </section>
+      <footer>
+        <p><small>{{ site.title | escape }} infrastructure is provided by {% include sponsors.html sponsors=site.data.sponsors %}</small></p>
+        <p><small>Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+      </footer>
+    </div>
   </body>
-
 </html>
