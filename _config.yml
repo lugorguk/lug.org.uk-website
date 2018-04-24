@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 gems:
   - jekyll-feed
 exclude:
