@@ -12,25 +12,20 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+    <title>{{ site.title }}{% if page.title and page.title != site.title %} - {{ page.title }}{% endif %}</title>
   </head>
   <body>
-
-      <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
-
+    <header>
+      <h1><img src='/assets/images/site_logo.png' alt='lug.org.uk logo'> {{ site.title }}</h1>{% if page.title and page.title != site.title %}<h2>{{ page.title }}</h2>{% endif %}
+    </header>
     <div class="wrapper">
       <nav>
-      <div class="trigger">
-      {% for a_page in site.pages %}
-        {% if a_page.title and a_page.url %}<p>{% if a_page.url == page.url %}<strong>{% endif %}<a href="{{ a_page.url }}">{{ a_page.title }}</a>{% if a_page.url == page.url %}</strong>{% endif %}</p>{% endif %}
-      {% endfor %}
-      </pre>
+        <ul>{% assign sortedPages = site.pages | sort: 'title' %}{% for a_page in sortedPages %}{% if a_page.title and a_page.url %}
+          <li>{% if a_page.url == page.url %}<u>{% endif %}<a href="{{ a_page.url }}">{{ a_page.title }}</a>{% if a_page.url == page.url %}</u>{% endif %}</li>{% endif %}{% endfor %}
+        </ul>
       </nav>
       <section>
         {{ content }}
-
       </section>
       <footer>
         <p><small>{{ site.title | escape }} infrastructure is provided by {% include sponsors.html sponsors=site.data.sponsors %}</small></p>

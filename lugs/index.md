@@ -1,4 +1,5 @@
 ---
-title: Find a LUG near you
+title: LUGs - All
 layout: lug_list
+categories: All
 ---

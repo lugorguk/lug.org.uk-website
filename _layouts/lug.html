@@ -14,7 +14,7 @@ layout: default
 <strong>Entry last updated:</strong> {{ page.last_update | date: "%Y/%m" }}<br/>
 {% endif %}
 <strong>Status:</strong> {{ page.status | default: 'Active' }}<br/>
-<strong>Region:</strong> {{ page.categories | default: 'Virtual' }}<br/>
+<strong>Region:</strong> <a href="/lugs/{{ page.categories | default: 'Virtual' }}">{{ page.categories | default: 'Virtual' }}</a><br/>
 {% if page.contact_address and page.contact_address != '' %}
 <strong>Contact/LUGmaster:</strong> <a href="mailto:{{ page.contact_address }}">{{ page.contact | default: page.contact_address }}</a><br/>
 {% endif %}
