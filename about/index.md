@@ -13,7 +13,7 @@ This site was the original idea of Mark Lewis and it was created in 1997, when h
 1. To provide an initial point for Linux users and non-users to search for LUGs in a specific area.<br><br>The [UK LUG list](/lugs) shows where groups currently are and how they can be contacted.<br><br>LUGs are a local community of Linux users of all levels that gather to share a broad spectrum of Linux information. Both novice and experienced Linux users will find LUGs a useful arena to debate and enquire personal experiences of Linux and indeed, pose those questions they need answering.
 2. To provide resources to freely allow LUGMasters to setup their own local Linux User Group, with our aid, using the lug.org.uk domain name.
 
-<h2>How to start a LUG</h2>
+<h2 id="start_a_lug">How to start a LUG</h2>
 
 Before you create a LUG, there are a number of things you should consider:
 
