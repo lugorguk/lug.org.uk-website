@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/163
 contact_address: mailto:davekh@gmail.com
 contact: Dave Harris
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/shropshire
-permalink: lugs/West-Midlands/Shropshire
+permalink: lugs/West-Midlands/Shropshire/
 ---

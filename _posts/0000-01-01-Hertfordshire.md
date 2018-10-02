@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/50
 contact_address: mailto:herts@lug.org.uk
 contact: Nicolas Pike
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/herts/
-permalink: lugs/East/Hertfordshire
+permalink: lugs/East/Hertfordshire/
 ---

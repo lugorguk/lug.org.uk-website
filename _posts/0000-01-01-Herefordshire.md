@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/158
 contact_address: mailto:joolsr1@gmail.com
 contact: Julian Robbins
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/herefordshire/
-permalink: lugs/West-Midlands/Herefordshire
+permalink: lugs/West-Midlands/Herefordshire/
 ---

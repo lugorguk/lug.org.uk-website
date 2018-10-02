@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/178
 contact_address: mailto:lugmaster@chelmer.lug.org.uk
 contact: Martin Houston
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/chelmer/
-permalink: lugs/South-East/Chelmer Linux and Android Users Group
+permalink: lugs/South-East/Chelmer Linux and Android Users Group/
 ---

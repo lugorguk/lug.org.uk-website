@@ -1,6 +1,7 @@
 ---
 title: About lug.org.uk
 layout: default
+permalink: about/
 ---
 lug.org.uk is primarily a focal point for Linux users in the UK, and secondly a resource provider for Linux User Groups, enabling them to maintain a web presence.
 

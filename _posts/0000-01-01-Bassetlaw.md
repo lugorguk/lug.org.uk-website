@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/54
 contact_address: mailto:dannyroberts.personal@googlemail.com
 contact: Danny Roberts
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/bassetlug/
-permalink: lugs/East-Midlands/Bassetlaw
+permalink: lugs/East-Midlands/Bassetlaw/
 ---

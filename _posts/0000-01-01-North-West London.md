@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/78
 contact_address: mailto:diamond@fastmail.fm
 contact: Diamond Braganza
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/northwestlondon/
-permalink: lugs/London/North-West London
+permalink: lugs/London/North-West London/
 ---

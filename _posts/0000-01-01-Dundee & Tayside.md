@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/104
 contact_address: mailto:astrozubenel@googlemail.com
 contact: Gordon Dunlop
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/dundee/
-permalink: lugs/Scotland/Dundee & Tayside
+permalink: lugs/Scotland/Dundee & Tayside/
 ---

@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/164
 contact_address: mailto:dave@staffslug.org.uk
 contact: Dave Roberts
 mailing_list: http://lists.staffslug.org.uk/mailman/listinfo/staffslug
-permalink: lugs/West-Midlands/Staffordshire
+permalink: lugs/West-Midlands/Staffordshire/
 ---

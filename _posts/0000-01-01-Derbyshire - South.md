@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/56
 contact_address: mailto:clare.lou1985@googlemail.com
 contact: Clare Currie
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/sderby/
-permalink: lugs/East-Midlands/Derbyshire - South
+permalink: lugs/East-Midlands/Derbyshire - South/
 ---

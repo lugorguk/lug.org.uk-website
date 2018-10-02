@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/166
 contact_address: mailto:leo@mozilla.org.uk
 contact: Leo McArdle
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/worcester/
-permalink: lugs/West-Midlands/Worcester
+permalink: lugs/West-Midlands/Worcester/
 ---
