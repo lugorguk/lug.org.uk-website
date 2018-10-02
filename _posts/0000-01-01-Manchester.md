@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/170
 contact_address: http://www.manlug.org/?page_id=809
 contact: http://www.manlug.org/?page_id=809
 mailing_list: http://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=man-lug&amp;A=1
-permalink: Manchester
+permalink: lugs/North-West/Manchester
 ---

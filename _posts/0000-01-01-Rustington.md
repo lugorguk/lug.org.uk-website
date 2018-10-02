@@ -9,5 +9,5 @@ categories: South-East
 url: http://lug.org.uk/node/175
 contact_address: mailto:fhj@eldy.org
 contact: Frank James
-permalink: Rustington
+permalink: lugs/South-East/Rustington
 ---

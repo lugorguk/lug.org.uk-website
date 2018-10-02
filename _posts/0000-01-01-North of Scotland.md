@@ -1,6 +1,6 @@
 ---
 layout: lug
-title: North-of Scotland
+title: North of Scotland
 website: http://nos-lug.org/
 established_date: ''
 status: Starting
@@ -9,5 +9,5 @@ categories: Scotland
 url: http://lug.org.uk/node/111
 contact_address: mailto:skfscotlad@aol.com
 contact: Stephen Kenneth Fuller
-permalink: North-of Scotland
+permalink: lugs/Scotland/North of Scotland
 ---

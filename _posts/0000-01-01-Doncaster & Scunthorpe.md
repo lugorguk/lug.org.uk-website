@@ -9,5 +9,5 @@ categories: Yorkshire-and-Humber
 url: http://lug.org.uk/node/129
 contact_address: mailto:webmaster@scundog.org
 contact: Shaun Holt
-permalink: Doncaster & Scunthorpe
+permalink: lugs/Yorkshire-and-Humber/Doncaster & Scunthorpe
 ---

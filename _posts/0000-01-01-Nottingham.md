@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/66
 contact_address: mailto:nottingham-owner@mailman.lug.org.uk
 contact: Martin Lomas
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/nottingham/
-permalink: Nottingham
+permalink: lugs/East-Midlands/Nottingham
 ---

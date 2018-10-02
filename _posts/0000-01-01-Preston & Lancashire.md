@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/91
 contact_address: mailto:phil@linux-games.co.uk
 contact: Phil Robinson
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/preston/
-permalink: Preston & Lancashire
+permalink: lugs/North-West/Preston & Lancashire
 ---

@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/53
 contact_address: mailto:linux@soslug.org
 contact: Derek Shaw
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/sos/
-permalink: Southend-on-Sea
+permalink: lugs/South-East/Southend-on-Sea
 ---

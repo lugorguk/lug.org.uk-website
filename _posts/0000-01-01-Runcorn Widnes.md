@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/181
 contact_address: mailto:lugmaster@runcornwidnes.lug.org.uk
 contact: Simon Smith
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/runcornwidnes
-permalink: Runcorn Widnes
+permalink: lugs/North-West/Runcorn Widnes
 ---

@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/65
 contact_address: mailto:info@northants.lug.org.uk
 contact: Kevin Taylor
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/northants/
-permalink: Northants
+permalink: lugs/East-Midlands/Northants
 ---

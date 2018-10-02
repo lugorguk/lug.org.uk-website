@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/82
 contact_address: mailto:neil@stfw.net
 contact: Neil Bothwick
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/liverpool/
-permalink: Liverpool (LivLUG)
+permalink: lugs/North-West/Liverpool (LivLUG)
 ---

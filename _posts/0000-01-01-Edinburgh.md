@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/108
 contact_address: mailto:meetings@edlug.org.uk
 contact: Jan Goulding
 mailing_list: http://www.edlug.org.uk/list_faq.html#howtojoin
-permalink: Edinburgh
+permalink: lugs/Scotland/Edinburgh
 ---

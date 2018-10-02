@@ -8,5 +8,5 @@ last_update: 11/2013
 categories: Wales
 url: http://lug.org.uk/node/154
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/swlug/
-permalink: South Wales
+permalink: lugs/Wales/South Wales
 ---

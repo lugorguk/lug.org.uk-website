@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/136
 contact_address: mailto:enquiries@sheflug.org.uk
 contact: Richard Ibbotson
 mailing_list: http://sheflug.org.uk/mailman/listinfo/sheflug_sheflug.org.uk
-permalink: Sheffield
+permalink: lugs/Yorkshire-and-Humber/Sheffield
 ---

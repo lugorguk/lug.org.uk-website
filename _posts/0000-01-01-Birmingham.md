@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/149
 contact_address: mailto:bhamlug@autotrain.org
 contact: LUG Master
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/sb
-permalink: Birmingham
+permalink: lugs/West-Midlands/Birmingham
 ---

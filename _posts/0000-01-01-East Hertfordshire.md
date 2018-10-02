@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/48
 contact_address: mailto:madtom1999@yahoo.com
 contact: Tom Potts
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/ear/
-permalink: East Hertfordshire
+permalink: lugs/East/East Hertfordshire
 ---
