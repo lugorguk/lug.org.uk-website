@@ -9,5 +9,5 @@ categories: Scotland
 url: http://lug.org.uk/node/111
 contact_address: mailto:skfscotlad@aol.com
 contact: Stephen Kenneth Fuller
-permalink: lugs/Scotland/North of Scotland
+permalink: lugs/Scotland/North of Scotland/
 ---

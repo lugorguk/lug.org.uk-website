@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/141
 contact_address: "/admin%40dclug.org.uk"
 contact: DCLUG
 mailing_list: http://mailman.dcglug.org.uk/listinfo/list
-permalink: lugs/South-West/Devon and Cornwall
+permalink: lugs/South-West/Devon and Cornwall/
 ---

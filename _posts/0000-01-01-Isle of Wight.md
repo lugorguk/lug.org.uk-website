@@ -9,5 +9,5 @@ categories: South-East
 url: http://lug.org.uk/node/186
 contact_address: mailto:rogerskid@supanet.com
 contact: Roger Skidmore
-permalink: lugs/South-East/Isle of Wight
+permalink: lugs/South-East/Isle of Wight/
 ---

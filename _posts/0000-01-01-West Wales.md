@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/156
 contact_address: mailto:westwales-owner@mailman.lug.org.uk
 contact: Mike Sheldon
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/westwales/
-permalink: lugs/Wales/West Wales
+permalink: lugs/Wales/West Wales/
 ---

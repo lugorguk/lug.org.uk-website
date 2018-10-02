@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/47
 contact_address: mailto:colchester@lug.org.uk
 contact: Gary Kearley
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/colchester/
-permalink: lugs/East/Colchester
+permalink: lugs/East/Colchester/
 ---

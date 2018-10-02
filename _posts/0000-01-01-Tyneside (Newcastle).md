@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/87
 contact_address: mailto:contact@tyneside.lug.org.uk
 contact: Brian Ronald
 mailing_list: http://tyneside.lug.org.uk/mailman/listinfo
-permalink: lugs/North-East/Tyneside (Newcastle)
+permalink: lugs/North-East/Tyneside (Newcastle)/
 ---

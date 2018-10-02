@@ -1,6 +1,7 @@
 ---
 title: Server Admins
 layout: default
+permalink: admins/
 ---
 The current team of administrators are:
 

@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/81
 contact_address: mailto:info@lancasterlug.org.uk
 contact: Wayne Ward
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/lancaster/
-permalink: lugs/North-West/Lancaster
+permalink: lugs/North-West/Lancaster/
 ---

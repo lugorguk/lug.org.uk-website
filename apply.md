@@ -1,6 +1,7 @@
 ---
 title: Apply for lug.org.uk resources
 layout: default
+permalink: apply/
 ---
 To apply for lug.org.uk resources, you need to contact the [admin mailing list](mailto:admin@lug.org.uk) with the following details:
 

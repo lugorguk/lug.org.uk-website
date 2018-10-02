@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/94
 contact_address: mailto:paul@all-the-johnsons.co.uk
 contact: Paul F. Johnson
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/wishlug/
-permalink: lugs/North-West/Wigan and St. Helens
+permalink: lugs/North-West/Wigan and St. Helens/
 ---

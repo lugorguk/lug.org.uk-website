@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/138
 contact_address: mailto:wylug@wylug.org.uk
 contact: WYLUG
 mailing_list: http://www.wylug.org.uk/about/mailing-lists/
-permalink: lugs/Yorkshire-and-Humber/West Yorkshire
+permalink: lugs/Yorkshire-and-Humber/West Yorkshire/
 ---
