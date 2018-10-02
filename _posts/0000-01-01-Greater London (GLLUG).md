@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/73
 contact_address: mailto:mattcopp+gllug@gmail.com
 contact: Matt Copperwaite
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/gllug
-permalink: Greater London (GLLUG)
+permalink: lugs/London/Greater London (GLLUG)
 ---

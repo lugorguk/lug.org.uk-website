@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/171
 contact_address: mailto:affix@affix.me
 contact: Keiran Smith
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/westlothian
-permalink: West Lothian
+permalink: lugs/Scotland/West Lothian
 ---

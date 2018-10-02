@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/117
 contact_address: mailto:fay@eglug.org.uk
 contact: Frances Fleming
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/eg/
-permalink: East Grinstead
+permalink: lugs/South-East/East Grinstead
 ---

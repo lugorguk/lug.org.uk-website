@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/132
 contact_address: mailto:thanet@lug.org.uk
 contact: Matthew Macdonald-Wallace
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/thanet/
-permalink: Thanet Linux User Group
+permalink: lugs/South-East/Thanet Linux User Group
 ---

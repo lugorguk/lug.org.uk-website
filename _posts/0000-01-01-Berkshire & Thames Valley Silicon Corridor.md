@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/114
 contact_address: mailto:tmdg@tmdg.co.uk
 contact: Tom Dawes-Gamble
 mailing_list: http://sclug.org.uk/mailman/listinfo
-permalink: Berkshire & Thames Valley - Silicon Corridor
+permalink: lugs/South-East/Berkshire & Thames Valley - Silicon Corridor
 ---

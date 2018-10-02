@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/174
 contact_address: mailto:admin@rosslug.org.uk
 contact: Jon Archer
 mailing_list: http://www.rosslug.org.uk/mailman/listinfo/rosslug
-permalink: Rossendale LUG
+permalink: lugs/North-West/Rossendale LUG
 ---

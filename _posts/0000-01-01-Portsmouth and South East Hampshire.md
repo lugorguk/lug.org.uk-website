@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/128
 contact_address: mailto:paul@aptanet.com
 contact: Paul Tansom
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/portsmouth/
-permalink: Portsmouth and South-East Hampshire
+permalink: lugs/South-East/Portsmouth and South-East Hampshire
 ---

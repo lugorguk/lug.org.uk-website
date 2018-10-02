@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/43
 contact_address: mailto:main-admin@lists.alug.org.uk
 contact: ALUG Admin Team
 mailing_list: http://lists.alug.org.uk/mailman/listinfo/main
-permalink: Anglian LUG
+permalink: lugs/East/Anglian LUG
 ---

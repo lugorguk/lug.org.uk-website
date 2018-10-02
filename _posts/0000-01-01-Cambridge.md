@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/45
 contact_address: mailto:paul@the-hug.org
 contact: Paul Oldham
 mailing_list: https://the-hug.net/lists/clug
-permalink: Cambridge
+permalink: lugs/East/Cambridge
 ---

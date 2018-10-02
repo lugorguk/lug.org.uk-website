@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/137
 contact_address: mailto:slugbug@email-lists.org
 contact: Chris Croome
 mailing_list: http://www.email-lists.org/mailman/listinfo/slugbug
-permalink: Sheffield Linux User Group and BSD User Group
+permalink: lugs/Yorkshire-and-Humber/Sheffield Linux User Group and BSD User Group
 ---

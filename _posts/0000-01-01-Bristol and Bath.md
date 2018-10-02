@@ -10,5 +10,5 @@ url: http://lug.org.uk/node/140
 contact_address: mailto:daved@studley-halls.demon.co.uk
 contact: Dave Donaghy
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/bristol/
-permalink: Bristol and Bath
+permalink: lugs/South-West/Bristol and Bath
 ---
