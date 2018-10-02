@@ -11,4 +11,3 @@ contact_address: mailto:tmdg@tmdg.co.uk
 contact: Tom Dawes-Gamble
 mailing_list: http://sclug.org.uk/mailman/listinfo
 permalink: lugs/South-East/Berkshire & Thames Valley - Silicon Corridor
----
