@@ -1,25 +1,31 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
-  </header>
+{% include article-author-bio-small.html %}
 
-  <div class="post-content" itemprop="articleBody">
+<article itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div itemprop="articleBody">
+    {% include facebook-like-post.html %}
+    <br />
     {{ content }}
+    <br />
+    {% include facebook-like-post.html %}
+    {% include facebook-comments.html %}
   </div>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
+
+  {% if site.facebook.pixelcode %}
+  <!-- Facebook Pixel Code -->
+  <script>
+  fbq('track', 'ViewContent');
+  </script>
+  <!-- End Facebook Pixel Code -->
+  {% endif %}
+
+
 </article>

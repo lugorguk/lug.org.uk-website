@@ -1,18 +1,99 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-title: UK Linux User Groups
-sponsors:
-  - name: BitFolk
-    url: http://bitfolk.com/
-  - name: Jump Networks
-    url: http://www.jump.net.uk/
-baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://lug.org.uk"
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: lug.org.uk
+email: admin@lug.org.uk
+description: ""
+baseurl: ""
+url: "https://lugorguk.github.io"
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+
+# Make sure to exclude 'vendor' from the build
+exclude: [vendor, "Gemfile", "Gemfile.lock"]
+
+# permalink: /:categories/:year/:month/:day/:title.html
+# none is equivalent to /:title.html
+# https://jekyllrb.com/docs/permalinks
+permalink: /:title.html
+
+google_analytics:
+
+# jekyll-theme-simple-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+jekyll-theme-simple-blog:
+  date_format: "%Y-%m-%d"
+
+theme: # leave it empty
+
+show_post_image_posts_list: false
+
+header:
+  image: /assets/patterns/symphony.png
+
+# social
+author:
+  name: "Lug.org.uk"
+  short_bio:
+    en: A site which provides technical services for User, Support or Interest Groups who are interested in, or advocate for Permissive Licenses in the United Kingdom.
+  picture: assets/img/profile-60.png
+
+image: /assets/img/profile-225.png
+
+#twitter:
+#  username:
+#instagram_username:
+
+#linkedin_username: lorepirri
+
+#  site:
+#facebook:
+#  publisher_id: 1474191545979552
+#  profile_id: 1474191545979552
+#  app_id: 126080721296732
+#  authors: [1474191545979552]
+  #pixelcode: 1670622619859349
+
+
+# gitlab on site
+#gitlab:
+#  owner_url: https://gitlab.com/lorepirri
+
+# github on site
+#github:
+#  owner_url: https://github.com/lorepirri
+
+
+# translation
+
+t:
+  en:
+    latest-posts:  "Latest Posts"
+    read-more:  "Read More →"
+    show-more:  "Show More →"
+    loading:  "Loading..."
+    on-word: "on"
+    contact: "Contact"
+    contact-page: "contact.md"
+    read-time: "min read"
+    comments: "comments"
+    go-to-home-page: "Go to the Home Page"
+    months:
+      january: "Jan"
+      february: "Feb"
+      march: "Mar"
+      april: "Apr"
+      may: "May"
+      june: "Jun"
+      july: "Jul"
+      august: "Aug"
+      september: "Sep"
+      october: "Oct"
+      november: "Nov"
+      december : "Dec"
