@@ -10,7 +10,7 @@ title: lug.org.uk
 email: admin@lug.org.uk
 description: ""
 baseurl: ""
-url: "https://lugorguk.github.io"
+url: "http://testsite.lug.org.uk"
 
 # Build settings
 markdown: kramdown
