@@ -66,8 +66,8 @@ image: /assets/img/profile-225.png
 #  owner_url: https://gitlab.com/lorepirri
 
 # github on site
-#github:
-#  owner_url: https://github.com/lorepirri
+github:
+  owner_url: https://github.com/lugorguk/lugorguk.github.io
 
 
 # translation
