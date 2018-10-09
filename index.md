@@ -12,4 +12,4 @@ who are interested in, or advocate for Permissive Licenses (e.g. Free Software, 
 
 We are able to offer to groups free hosting of web sites and email addresses, run mailing lists and provide DNS hosting services.
 
-If you run a group which you feel is in line with our offer, or are thinking of starting one, please [take a look into applying](apply).
+If you run a group that you feel is in line with our offer, or are thinking of starting one, please [take a look into applying](apply).
