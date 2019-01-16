@@ -33,7 +33,6 @@
 
     {% assign canonical_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed' | prepend: site.baseurl | prepend: site.url | append: '.xml' }}">
     <link rel="shortcut icon" href="{{ '/favicon.ico' | prepend: site.baseurl }}">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
