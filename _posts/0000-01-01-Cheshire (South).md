@@ -11,4 +11,7 @@ contact_address: mailto:richard@sc.lug.org.uk
 contact: Richard Smedley
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/sc/
 permalink: lugs/North-West/Cheshire (South)/
+location:
+  latitude: 53.23
+  longitude: -2.61
 ---

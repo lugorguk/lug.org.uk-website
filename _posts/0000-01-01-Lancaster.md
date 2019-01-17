@@ -11,4 +11,7 @@ contact_address: mailto:info@lancasterlug.org.uk
 contact: Wayne Ward
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/lancaster/
 permalink: lugs/North-West/Lancaster/
+location:
+  latitude: 54.05
+  longitude: -2.80
 ---

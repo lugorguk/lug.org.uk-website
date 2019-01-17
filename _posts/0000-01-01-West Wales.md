@@ -11,4 +11,7 @@ contact_address: mailto:westwales-owner@mailman.lug.org.uk
 contact: Mike Sheldon
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/westwales/
 permalink: lugs/Wales/West Wales/
+location:
+  latitude: 52.42
+  longitude: -4.08
 ---

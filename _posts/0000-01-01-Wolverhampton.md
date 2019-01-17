@@ -11,4 +11,7 @@ contact_address: ron@wellsted.org.uk
 contact: Ron Wellsted
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/wolveslug/
 permalink: lugs/West-Midlands/Wolverhampton/
+location:
+  latitude: 52.59
+  longitude: -2.13
 ---

@@ -11,4 +11,7 @@ contact_address: mailto:westberkshire@lug.org.uk
 contact: Phillip Chandler
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/westberkshire/
 permalink: lugs/South-East/West Berkshire - Newbury/
+location:
+  latitude: 51.40
+  longitude: -1.32
 ---

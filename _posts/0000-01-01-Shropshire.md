@@ -11,4 +11,7 @@ contact_address: mailto:davekh@gmail.com
 contact: Dave Harris
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/shropshire
 permalink: lugs/West-Midlands/Shropshire/
+location:
+  latitude: 52.71
+  longitude: -2.74
 ---

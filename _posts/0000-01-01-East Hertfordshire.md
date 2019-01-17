@@ -11,4 +11,7 @@ contact_address: mailto:madtom1999@yahoo.com
 contact: Tom Potts
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/ear/
 permalink: lugs/East/East Hertfordshire/
+location:
+  latitude: 51.87
+  longitude: 0.15
 ---

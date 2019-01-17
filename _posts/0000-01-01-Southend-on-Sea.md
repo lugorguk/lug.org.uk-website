@@ -11,4 +11,7 @@ contact_address: mailto:linux@soslug.org
 contact: Derek Shaw
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/sos/
 permalink: lugs/South-East/Southend-on-Sea/
+location:
+  latitude: 51.55
+  longitude: 0.71
 ---

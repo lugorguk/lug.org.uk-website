@@ -11,4 +11,7 @@ contact_address: mailto:main-admin@lists.alug.org.uk
 contact: ALUG Admin Team
 mailing_list: http://lists.alug.org.uk/mailman/listinfo/main
 permalink: lugs/East/Anglian LUG/
+location:
+  latitude: 52.63
+  longitude: 1.30
 ---

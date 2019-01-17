@@ -11,4 +11,7 @@ contact_address: mailto:mattcopp+gllug@gmail.com
 contact: Matt Copperwaite
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/gllug
 permalink: lugs/London/Greater London (GLLUG)/
+location:
+  latitude: 51.43
+  longitude: -0.09
 ---

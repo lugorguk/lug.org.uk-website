@@ -11,4 +11,7 @@ contact_address: mailto:affix@affix.me
 contact: Keiran Smith
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/westlothian
 permalink: lugs/Scotland/West Lothian/
+location:
+  latitude: 55.91
+  longitude: -3.55
 ---

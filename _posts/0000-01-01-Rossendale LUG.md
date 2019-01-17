@@ -11,4 +11,7 @@ contact_address: mailto:admin@rosslug.org.uk
 contact: Jon Archer
 mailing_list: http://www.rosslug.org.uk/mailman/listinfo/rosslug
 permalink: lugs/North-West/Rossendale LUG/
+location:
+  latitude: 53.69
+  longitude: -2.26
 ---

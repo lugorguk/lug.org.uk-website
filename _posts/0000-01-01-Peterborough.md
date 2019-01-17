@@ -11,4 +11,7 @@ contact_address: mark@more-solutions.co.uk
 contact: Mark Rogers
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/peterboro/
 permalink: lugs/East/Peterborough/
+location:
+  latitude: 52.57
+  longitude: -0.24
 ---

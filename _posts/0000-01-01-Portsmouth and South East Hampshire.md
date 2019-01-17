@@ -11,4 +11,7 @@ contact_address: mailto:paul@aptanet.com
 contact: Paul Tansom
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/portsmouth/
 permalink: lugs/South-East/Portsmouth and South-East Hampshire/
+location:
+  latitude: 50.82
+  longitude: -1.09
 ---

@@ -11,4 +11,7 @@ contact_address: mailto:lugmaster@chelmer.lug.org.uk
 contact: Martin Houston
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/chelmer/
 permalink: lugs/South-East/Chelmer Linux and Android Users Group/
+location:
+  latitude: 51.74
+  longitude: 0.47
 ---
