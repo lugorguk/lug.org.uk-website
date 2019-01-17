@@ -10,7 +10,7 @@ The current team of administrators are:
 | Ralph Corderoy | No |
 | [Jon Spriggs](mailto:jon@sprig.gs) | [Yes](http://keybase.io/JonTheNiceGuy) |
 | Alasdair Kergon | [Yes](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x28F50196C43802EB) |
-| Gavin Westwood | [Yes](https://keys.alderwick.co.uk/pks/lookup?op=get&search=0xA28A42ADF634CBC5) |
+| [Gavin Westwood](mailto:lug2019@gavinwestwood.uk) | [Yes](http://keyserver.ubuntu.com:11371/pks/lookup?op=get&search=0xA28A42ADF634CBC5) |
 
 They may be contacted en masse through the [administrators mailing list](mailto:admin@lug.org.uk).
 
