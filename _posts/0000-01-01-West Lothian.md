@@ -1,7 +1,6 @@
 ---
 layout: lug
 title: West Lothian
-website: http://wllug.org.uk
 established_date: 2011/12
 status: Starting
 last_update: 12/2011
