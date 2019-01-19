@@ -10,4 +10,7 @@ url: http://lug.org.uk/node/129
 contact_address: mailto:webmaster@scundog.org
 contact: Shaun Holt
 permalink: lugs/Yorkshire-and-Humber/Doncaster & Scunthorpe/
+location:
+  latitude: 53.52
+  longitude: -1.13
 ---

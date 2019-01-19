@@ -11,4 +11,7 @@ contact_address: mailto:herts@lug.org.uk
 contact: Nicolas Pike
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/herts/
 permalink: lugs/East/Hertfordshire/
+location:
+  latitude: 51.90
+  longitude: -0.20
 ---

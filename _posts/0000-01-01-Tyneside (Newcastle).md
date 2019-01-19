@@ -11,4 +11,7 @@ contact_address: mailto:contact@tyneside.lug.org.uk
 contact: Brian Ronald
 mailing_list: http://tyneside.lug.org.uk/mailman/listinfo
 permalink: lugs/North-East/Tyneside (Newcastle)/
+location:
+  latitude: 54.98
+  longitude: -1.62
 ---

@@ -11,4 +11,7 @@ contact_address: mailto:enquiries@sheflug.org.uk
 contact: Richard Ibbotson
 mailing_list: http://sheflug.org.uk/mailman/listinfo/sheflug_sheflug.org.uk
 permalink: lugs/Yorkshire-and-Humber/Sheffield/
+location:
+  latitude: 53.38
+  longitude: -1.47
 ---

@@ -11,4 +11,7 @@ contact_address: mailto:clare.lou1985@googlemail.com
 contact: Clare Currie
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/sderby/
 permalink: lugs/East-Midlands/Derbyshire - South/
+location:
+  latitude: 52.92
+  longitude: -1.47
 ---

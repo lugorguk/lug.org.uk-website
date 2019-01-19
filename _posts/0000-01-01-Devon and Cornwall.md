@@ -11,4 +11,7 @@ contact_address: mailto:admin@dcglug.org.uk
 contact: DCGLUG
 mailing_list: http://mailman.dcglug.org.uk/listinfo/list
 permalink: lugs/South-West/Devon and Cornwall/
+location:
+  latitude: 50.38
+  longitude: -4.14
 ---

@@ -11,4 +11,7 @@ contact_address: mailto:phil@linux-games.co.uk
 contact: Phil Robinson
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/preston/
 permalink: lugs/North-West/Preston & Lancashire/
+location:
+  latitude: 53.76
+  longitude: -2.70
 ---

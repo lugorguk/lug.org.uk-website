@@ -11,4 +11,7 @@ contact_address: mailto:info@mk.lug.org.uk
 contact: Gavin Westwood
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/mk/
 permalink: lugs/South-East/Milton Keynes/
+location:
+  latitude: 52.04
+  longitude: -0.76
 ---

@@ -11,4 +11,7 @@ contact_address: mailto:iain.dbaker@gmail.com
 contact: Iain Baker
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/lincs/
 permalink: lugs/East-Midlands/Lincolnshire/
+location:
+  latitude: 52.95
+  longitude: -0.16
 ---

@@ -11,4 +11,7 @@ contact_address: mailto:tmdg@tmdg.co.uk
 contact: Tom Dawes-Gamble
 mailing_list: http://sclug.org.uk/mailman/listinfo
 permalink: lugs/South-East/Berkshire and Thames Valley - Silicon Corridor/
+location:
+  latitude: 51.45
+  longitude: -0.98
 ---

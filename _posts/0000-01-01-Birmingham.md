@@ -11,4 +11,7 @@ contact_address: mailto:bhamlug@autotrain.org
 contact: LUG Master
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/sb
 permalink: lugs/West-Midlands/Birmingham/
+location:
+  latitude: 52.49
+  longitude: -1.89
 ---

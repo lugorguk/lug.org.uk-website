@@ -11,4 +11,7 @@ contact_address: mailto:glynd@walmore.com
 contact: Glyn Davies
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/gloucs/
 permalink: lugs/South-West/Gloucestershire & Cotswolds/
+location:
+  latitude: 51.86
+  longitude: -2.24
 ---

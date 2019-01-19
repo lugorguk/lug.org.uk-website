@@ -11,4 +11,7 @@ contact_address: mailto:dave@staffslug.org.uk
 contact: Dave Roberts
 mailing_list: http://lists.staffslug.org.uk/mailman/listinfo/staffslug
 permalink: lugs/West-Midlands/Staffordshire/
+location:
+  latitude: 52.88
+  longitude: -2.06
 ---

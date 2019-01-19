@@ -11,4 +11,7 @@ contact_address: mailto:meetings@edlug.org.uk
 contact: Jan Goulding
 mailing_list: http://www.edlug.org.uk/list_faq.html#howtojoin
 permalink: lugs/Scotland/Edinburgh/
+location:
+  latitude: 55.95
+  longitude: -3.19
 ---

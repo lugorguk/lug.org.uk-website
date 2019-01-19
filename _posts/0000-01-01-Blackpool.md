@@ -11,4 +11,7 @@ contact_address: mailto:admin@pcrecycler.co.uk
 contact: Mike Hewitt
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/blackpool/
 permalink: lugs/North-West/Blackpool/
+location:
+  latitude: 53.82
+  longitude: -3.04
 ---

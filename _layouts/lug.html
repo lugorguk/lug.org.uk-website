@@ -32,3 +32,7 @@ layout: default
 </p>
 
 {{ content }}
+
+{% if page.location %}
+{% google_map zoom="7" %}
+{% endif %}

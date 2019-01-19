@@ -11,4 +11,7 @@ contact_address: mailto:neil@stfw.net
 contact: Neil Bothwick
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/liverpool/
 permalink: lugs/North-West/Liverpool (LivLUG)/
+location:
+  latitude: 53.41
+  longitude: -2.99
 ---

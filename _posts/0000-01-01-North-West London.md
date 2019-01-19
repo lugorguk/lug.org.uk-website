@@ -11,4 +11,7 @@ contact_address: mailto:diamond@fastmail.fm
 contact: Diamond Braganza
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/northwestlondon/
 permalink: lugs/London/North-West London/
+location:
+  latitude: 51.58
+  longitude: -0.34
 ---

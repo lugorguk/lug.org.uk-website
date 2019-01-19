@@ -11,4 +11,7 @@ contact_address: mailto:nottingham-owner@mailman.lug.org.uk
 contact: Martin Lomas
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/nottingham/
 permalink: lugs/East-Midlands/Nottingham/
+location:
+  latitude: 52.95
+  longitude: -1.16
 ---

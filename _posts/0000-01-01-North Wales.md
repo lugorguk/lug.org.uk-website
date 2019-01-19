@@ -11,4 +11,7 @@ contact_address: mailto:info@nwlug.org.uk
 contact: Andrew Hutchings
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/northwales/
 permalink: lugs/Wales/North-Wales/
+location:
+  latitude: 53.07
+  longitude: -3.81
 ---

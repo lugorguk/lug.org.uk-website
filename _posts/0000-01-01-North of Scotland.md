@@ -10,4 +10,7 @@ url: http://lug.org.uk/node/111
 contact_address: mailto:skfscotlad@aol.com
 contact: Stephen Kenneth Fuller
 permalink: lugs/Scotland/North of Scotland/
+location:
+  latitude: 57.48
+  longitude: -4.22
 ---

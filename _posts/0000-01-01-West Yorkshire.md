@@ -11,4 +11,7 @@ contact_address: mailto:wylug@wylug.org.uk
 contact: WYLUG
 mailing_list: http://www.wylug.org.uk/about/mailing-lists/
 permalink: lugs/Yorkshire-and-Humber/West Yorkshire/
+location:
+  latitude: 53.80
+  longitude: -1.55
 ---
