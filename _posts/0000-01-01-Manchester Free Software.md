@@ -11,4 +11,7 @@ contact_address: mailto:fsuk-manchester-team@nongnu.org
 contact: Team MFS
 mailing_list: http://lists.nongnu.org/mailman/listinfo/fsuk-manchester
 permalink: lugs/North-West/Manchester Free Software/
+location:
+  latitude: 53.48
+  longitude: -2.23
 ---

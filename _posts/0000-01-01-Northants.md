@@ -11,4 +11,7 @@ contact_address: mailto:info@northants.lug.org.uk
 contact: Kevin Taylor
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/northants/
 permalink: lugs/East-Midlands/Northants/
+location:
+  latitude: 52.24
+  longitude: -0.90
 ---

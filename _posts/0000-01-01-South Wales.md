@@ -9,4 +9,7 @@ categories: Wales
 url: http://lug.org.uk/node/154
 mailing_list: http://mailman.lug.org.uk/mailman/listinfo/swlug/
 permalink: lugs/Wales/South Wales/
+location:
+  latitude: 51.48
+  longitude: -3.18
 ---

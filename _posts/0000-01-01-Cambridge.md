@@ -11,4 +11,7 @@ contact_address: mailto:paul@the-hug.org
 contact: Paul Oldham
 mailing_list: https://the-hug.net/lists/clug
 permalink: lugs/East/Cambridge/
+location:
+  latitude: 52.21
+  longitude: 0.12
 ---

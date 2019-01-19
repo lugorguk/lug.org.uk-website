@@ -11,4 +11,7 @@ contact_address: mailto:colchester@lug.org.uk
 contact: Gary Kearley
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/colchester/
 permalink: lugs/East/Colchester/
+location:
+  latitude: 51.90
+  longitude: 0.89
 ---

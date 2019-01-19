@@ -11,4 +11,7 @@ contact_address: mailto:clive@leicester.lug.org.uk
 contact: Clive Jones
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/leicester/
 permalink: lugs/East-Midlands/Leicester/
+location:
+  latitude: 52.64
+  longitude: -1.14
 ---

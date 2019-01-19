@@ -11,4 +11,7 @@ contact_address: mailto:dannyroberts.personal@googlemail.com
 contact: Danny Roberts
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/bassetlug/
 permalink: lugs/East-Midlands/Bassetlaw/
+location:
+  latitude: 53.31
+  longitude: -1.12
 ---

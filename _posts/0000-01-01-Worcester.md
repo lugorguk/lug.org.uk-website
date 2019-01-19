@@ -11,4 +11,7 @@ contact_address: mailto:leo@mozilla.org.uk
 contact: Leo McArdle
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/worcester/
 permalink: lugs/West-Midlands/Worcester/
+location:
+  latitude: 52.19
+  longitude: -2.22
 ---

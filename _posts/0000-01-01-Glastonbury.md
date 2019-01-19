@@ -11,4 +11,7 @@ contact_address: mailto:sean@seanmiller.net
 contact: Sean Miller
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/glastonbury
 permalink: lugs/South-West/Glastonbury/
+location:
+  latitude: 51.15
+  longitude: -2.72
 ---

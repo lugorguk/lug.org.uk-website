@@ -14,7 +14,7 @@ layout: default
 <strong>Status:</strong> {{ page.status | default: 'Active' }}<br/>
 <strong>Region:</strong> <a href="/lugs/{{ page.categories | default: 'Virtual' }}">{{ page.categories | default: 'Virtual' }}</a><br/>
 {% if page.contact_address and page.contact_address != '' %}
-<strong>Contact/LUGmaster:</strong> <a href="mailto:{{ page.contact_address }}">{{ page.contact | default: page.contact_address }}</a><br/>
+<strong>Contact/LUGmaster:</strong> <a href="{{ page.contact_address }}">{{ page.contact | default: page.contact_address }}</a><br/>
 {% endif %}
 {% if page.mailing_list and page.mailing_list != '' %}
 <strong>Mailing list:</strong> <a href="{{ page.mailing_list }}">List</a><br/>
@@ -32,3 +32,7 @@ layout: default
 </p>
 
 {{ content }}
+
+{% if page.location %}
+{% google_map zoom="7" %}
+{% endif %}

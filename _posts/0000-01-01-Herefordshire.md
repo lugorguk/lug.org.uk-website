@@ -11,4 +11,7 @@ contact_address: mailto:joolsr1@gmail.com
 contact: Julian Robbins
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/herefordshire/
 permalink: lugs/West-Midlands/Herefordshire/
+location:
+  latitude: 52.08
+  longitude: -2.65
 ---

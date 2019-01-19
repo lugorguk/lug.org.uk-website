@@ -97,3 +97,12 @@ t:
       october: "Oct"
       november: "Nov"
       december : "Dec"
+
+plugins:
+  - jekyll-maps
+
+# Google Maps API key managed by Tim Retout
+# Restricted to lug.org.uk domains, and 127.0.0.1:4000
+maps:
+  google:
+    api_key: "AIzaSyD5LJcVn9SC9JUxT6dS-dXYEVRYTl9PJBQ"

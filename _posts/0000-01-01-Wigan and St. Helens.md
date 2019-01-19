@@ -11,4 +11,7 @@ contact_address: mailto:paul@all-the-johnsons.co.uk
 contact: Paul F. Johnson
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/wishlug/
 permalink: lugs/North-West/Wigan and St. Helens/
+location:
+  latitude: 53.55
+  longitude: -2.63
 ---
