@@ -10,7 +10,7 @@ title: lug.org.uk
 email: admin@lug.org.uk
 description: ""
 baseurl: ""
-url: "http://testsite.lug.org.uk"
+url: "https://lug.org.uk"
 
 # Build settings
 markdown: kramdown
@@ -101,8 +101,8 @@ t:
 plugins:
   - jekyll-maps
 
-# Google Maps API key managed by Tim Retout
+# Google Maps API key managed by Jon Spriggs jon@sprig.gs following work by Tim Retout
 # Restricted to lug.org.uk domains, and 127.0.0.1:4000
 maps:
   google:
-    api_key: "AIzaSyD5LJcVn9SC9JUxT6dS-dXYEVRYTl9PJBQ"
+    api_key: "AIzaSyCv8qpPm_j_jDua7gzQDP9166AyAV4bQaA"
