@@ -8,7 +8,7 @@ ref: home
 The UK Linux User Groups organisation, also known as lug.org.uk, is dedicated to providing technical services for User, Support or Interest Groups 
 who are interested in, or advocate for Permissive Licenses (e.g. Free Software, Open Source Software and Linux Distribution groups) in the United Kingdom.
 
-{% google_map src="_posts" height="500" class="center-image" %}
+{% google_map src="_posts" width="100%" class="map" %}
 
 [Our list of Linux User Groups or other associated groups in the United Kingdom is available from this page](lugs).
 

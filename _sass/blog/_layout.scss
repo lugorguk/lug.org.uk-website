@@ -159,3 +159,16 @@
   display: block;
   @include relative-font-size(1.5);
 }
+
+/**
+ * Map
+ */
+.map {
+  margin: auto;
+  max-width: 60%;
+}
+@include media-query($on-laptop) {
+  .map {
+    max-width: 100%;
+  }
+}
