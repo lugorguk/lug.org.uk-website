@@ -9,7 +9,7 @@ categories: West-Midlands
 url: http://lug.org.uk/node/165
 contact_address: mailto:ron@wellsted.org.uk
 contact: Ron Wellsted
-mailing_list: https://mailman.lug.org.uk/mailman/listinfo/wolveslug/
+mailing_list: https://mailman.lug.org.uk/mailman/listinfo/wolves/
 permalink: lugs/West-Midlands/Wolverhampton/
 location:
   latitude: 52.59
