@@ -7,7 +7,7 @@ status: Active
 last_update: 12/2009
 categories: West-Midlands
 url: http://lug.org.uk/node/165
-contact_address: mailto:ron@wellsted.org.uk
+contact_address: mailto:adamsweet@gmail.com
 contact: Ron Wellsted
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/wolves/
 permalink: lugs/West-Midlands/Wolverhampton/
