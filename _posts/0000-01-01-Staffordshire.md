@@ -12,6 +12,6 @@ contact: info@staffslug.org.uk
 mailing_list: https://lists.staffslug.org.uk
 permalink: lugs/West-Midlands/Staffordshire/
 location:
-  latitude: 52.88
-  longitude: -2.06
+  latitude: 53.003
+  longitude: -2.273
 ---
