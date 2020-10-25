@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Nottingham
-website: http://www.nottingham.lug.org.uk
+website: https://nlug.ml1.co.uk/
 established_date: 2000/03
 status: Active
 last_update: 05/2012
