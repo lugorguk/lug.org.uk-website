@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Liverpool (LivLUG)
-website: http://www.livlug.org.uk
+website: https://livlug.org.uk/
 established_date: 2004/11
 status: Active
 last_update: 01/2015

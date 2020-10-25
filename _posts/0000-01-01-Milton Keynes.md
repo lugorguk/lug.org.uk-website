@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Milton Keynes
-website: http://www.mk.lug.org.uk
+website: https://www.mk.lug.org.uk/
 established_date: 1999/01
 status: Active
 last_update: 12/2009
