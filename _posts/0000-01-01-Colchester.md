@@ -1,7 +1,6 @@
 ---
 layout: lug
 title: Colchester
-website: https://colchester.lug.org.uk
 established_date: 2004/11
 status: Active
 last_update: 12/2009
