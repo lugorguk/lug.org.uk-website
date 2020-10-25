@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Sheffield
-website: https://www.sheflug.org.uk/
+website: https://www.sheflug.org.uk/indexpage/
 established_date: 1999/01
 status: Active
 last_update: 12/2009
