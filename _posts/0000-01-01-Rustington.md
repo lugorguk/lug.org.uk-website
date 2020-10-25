@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Rustington
-website: http://www.rustington.lug.org.uk
+website: https://www.rustington.lug.org.uk/
 established_date: 2010/10
 status: Starting
 last_update: 10/2010
