@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Lincolnshire
-website: http://lincslug.org.uk
+website: https://lincslug.org.uk/
 established_date: ''
 status: Starting
 last_update: 03/2014
