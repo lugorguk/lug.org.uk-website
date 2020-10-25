@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Bristol and Bath
-website: https://www.bristol.lug.org.uk
+website: https://bristol.lug.org.uk
 established_date: 1998/06
 status: Active
 last_update: 02/2019

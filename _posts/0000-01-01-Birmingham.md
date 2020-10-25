@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Birmingham
-website: https://birmingham.lug.org.uk
+website: https://www.birminghamlug.org.uk/
 established_date: 2001/06
 status: Active
 last_update: 09/2016

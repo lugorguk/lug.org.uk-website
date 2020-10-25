@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Leicester
-website: http://www.leicester.lug.org.uk
+website: https://www.leicester.lug.org.uk/
 established_date: 1999/09
 status: Active
 last_update: 12/2009

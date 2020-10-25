@@ -1,7 +1,6 @@
 ---
 layout: lug
 title: Rossendale LUG
-website: https://www.rosslug.org.uk
 established_date: 2010/10
 status: Active
 last_update: 02/2014
