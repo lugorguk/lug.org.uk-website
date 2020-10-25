@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: North-East Worcestershire
-website: http://www.new.lug.org.uk
+website: https://www.new.lug.org.uk/
 established_date: 2011/01
 status: Starting
 last_update: 12/2011
