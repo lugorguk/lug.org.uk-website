@@ -1,7 +1,6 @@
 ---
 layout: lug
 title: Doncaster & Scunthorpe
-website: https://www.scundog.org/
 established_date: 1999/07
 status: Active
 last_update: 12/2009
