@@ -1,7 +1,6 @@
 ---
 layout: lug
 title: Chelmer Linux and Android Users Group
-website: https://www.linkedin.com/groups/Chelmer-Linux-Android-Users-Group-3963756
 established_date: 2011/06
 status: Starting
 last_update: 06/2011
