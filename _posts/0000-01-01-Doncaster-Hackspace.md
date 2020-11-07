@@ -11,6 +11,6 @@ contact: LUG Master
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/doncaster
 permalink: lugs/Yorkshire-and-Humber/Doncaster-Hackspace/
 location:
-  latitude: 53.31
-  longitude: -1.08
+  latitude: 53.52
+  longitude: -1.13
 ---
