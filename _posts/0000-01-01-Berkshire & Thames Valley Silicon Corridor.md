@@ -4,7 +4,7 @@ title: Berkshire & Thames Valley ("Silicon Corridor")
 website: https://sclug.org.uk
 established_date: 1995/06
 status: Active
-last_update: 12/2009
+last_update: 11/2020
 categories: South-East
 url: https://lug.org.uk/node/114
 contact_address: mailto:stuart.ward.uk@gmail.com
