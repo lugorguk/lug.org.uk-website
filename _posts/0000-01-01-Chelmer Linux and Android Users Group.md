@@ -3,7 +3,7 @@ layout: lug
 title: Chelmer Linux and Android Users Group
 established_date: 2011/06
 status: Inactive
-last_update: 06/2011
+last_update: 03/2021
 categories: South-East
 url: https://lug.org.uk/node/178
 contact_address: mailto:lugmaster@chelmer.lug.org.uk
