@@ -3,7 +3,7 @@ layout: lug
 title: Derbyshire - South
 website: ''
 established_date: 2000/04
-status: Active
+status: Inactive
 last_update: 01/2013
 categories: East-Midlands
 url: http://lug.org.uk/node/56
