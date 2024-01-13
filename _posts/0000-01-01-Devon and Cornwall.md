@@ -6,10 +6,10 @@ established_date: 1999/10
 status: Active
 last_update: 12/2009
 categories: South-West
-url: http://lug.org.uk/node/141
+url: https://lug.org.uk/node/141
 contact_address: mailto:admin@dcglug.org.uk
 contact: DCGLUG
-mailing_list: http://mailman.dcglug.org.uk/listinfo/list
+mailing_list: https://mailman.dcglug.org.uk/postorius/lists/list.dcglug.org.uk/
 permalink: lugs/South-West/Devon and Cornwall/
 location:
   latitude: 50.38

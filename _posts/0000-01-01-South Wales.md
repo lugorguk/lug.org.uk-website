@@ -7,7 +7,7 @@ status: Active
 last_update: 11/2013
 categories: Wales
 url: https://lug.org.uk/node/154
-mailing_list: http://mailman.lug.org.uk/mailman/listinfo/swlug/
+mailing_list: https://mailman.lug.org.uk/mailman/listinfo/swlug/
 permalink: lugs/Wales/South Wales/
 location:
   latitude: 51.48

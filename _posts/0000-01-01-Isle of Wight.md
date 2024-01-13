@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Isle of Wight
-website: http://www.iwlug.org.uk
+website: https://iwlug.weebly.com
 established_date: ''
 status: Starting
 last_update: 10/2014

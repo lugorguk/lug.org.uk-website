@@ -1,15 +1,15 @@
 ---
 layout: lug
 title: Manchester
-website: http://www.manlug.org/
+website: https://www.manlug.org
 established_date: ''
 status: Active
 last_update: 02/2013
 categories: North-West
-url: http://lug.org.uk/node/170
-contact_address: http://www.manlug.org/contacts.php
+url: https://lug.org.uk/node/170
+contact_address: https://www.manlug.org/contacts.php
 contact: Daniel Botting
-mailing_list: http://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=man-lug&amp;A=1
+mailing_list: https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=man-lug&amp;A=1
 permalink: lugs/North-West/Manchester/
 location:
   latitude: 53.48

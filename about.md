@@ -37,6 +37,6 @@ Once you've decided on a name and coverage area for your LUG, you should:
 
 Other resources:
 
-* Rick Moen's [User Group HOWTO](http://www.tldp.org/HOWTO/User-Group-HOWTO.html).
+* Rick Moen's [User Group HOWTO](https://tldp.org/HOWTO/User-Group-HOWTO.html).
 
 

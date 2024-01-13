@@ -6,7 +6,7 @@ established_date: 1998/01
 status: Inactive
 last_update: 06/2015
 categories: East
-url: http://lug.org.uk/node/45
+url: https://lug.org.uk/node/45
 contact_address: mailto:cambridge@lug.org.uk
 contact: Paul Oldham
 mailing_list: ''

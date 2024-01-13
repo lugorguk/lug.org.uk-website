@@ -6,7 +6,7 @@ established_date: 1998/03
 status: Active
 last_update: 03/2019
 categories: Scotland
-url: http://lug.org.uk/node/108
+url: https://lug.org.uk/node/108
 contact_address: mailto:maintainer@edlug.org.uk
 contact: Tai Kedzierski
 mailing_list: https://edlug.gitlab.io/mailing-list/

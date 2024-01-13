@@ -1,12 +1,12 @@
 ---
 layout: lug
 title: East Grinstead
-website: http://eg.lug.org.uk
+website: ''
 established_date: 2019/02
 status: Starting
 last_update: 04/2019
 categories: South-East
-url: http://lug.org.uk/node/117
+url: https://lug.org.uk/node/117
 contact_address: mailto:info@eg.lug.org.uk
 contact: Peter Jones
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/eg/
