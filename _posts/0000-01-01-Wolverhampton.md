@@ -4,7 +4,7 @@ title: Wolverhampton
 website: https://wolveslug.org.uk/
 established_date: 1999/11
 status: Active
-last_update: 12/2009
+last_update: 01/2024
 categories: West-Midlands
 url: https://lug.org.uk/node/165
 contact_address: mailto:adamsweet@gmail.com

@@ -4,7 +4,7 @@ title: Sheffield
 website: https://www.sheflug.org.uk/indexpage/
 established_date: 1999/01
 status: Active
-last_update: 12/2009
+last_update: 01/2024
 categories: Yorkshire-and-Humber
 url: https://lug.org.uk/node/136
 contact_address: mailto:enquiries@sheflug.org.uk

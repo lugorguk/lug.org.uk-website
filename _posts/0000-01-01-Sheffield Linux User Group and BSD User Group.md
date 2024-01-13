@@ -3,12 +3,12 @@ layout: lug
 title: Sheffield Linux User Group and BSD User Group
 website: ''
 established_date: 2003/07
-status: Active
-last_update: 04/2010
+status: Inactive
+last_update: 04/2011
 categories: Yorkshire-and-Humber
-url: http://lug.org.uk/node/137
-contact_address: mailto:slugbug@email-lists.org
-contact: Chris Croome
+url: https://lug.org.uk/node/137
+contact_address:
+contact: 
 mailing_list: http://www.email-lists.org/mailman/listinfo/slugbug
 permalink: lugs/Yorkshire-and-Humber/Sheffield Linux User Group and BSD User Group/
 location:
