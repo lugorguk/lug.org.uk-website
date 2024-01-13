@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Herefordshire
-website: http://www.herefordshire.lug.org.uk
+website: ''
 established_date: 2004/06
 status: Active
 last_update: 01/2024

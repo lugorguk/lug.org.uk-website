@@ -4,7 +4,7 @@ title: Derbyshire - South
 website: ''
 established_date: 2000/04
 status: Inactive
-last_update: 11/2023
+last_update: 11/2016
 categories: East-Midlands
 url: http://lug.org.uk/node/56
 contact_address: 
