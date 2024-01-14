@@ -3,7 +3,7 @@ layout: lug
 title: Rustington
 website: https://www.rustington.lug.org.uk/
 established_date: 2010/10
-status: Starting
+status: Active
 last_update: 10/2010
 categories: South-East
 url: https://lug.org.uk/node/175

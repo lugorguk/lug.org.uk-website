@@ -3,7 +3,7 @@ layout: lug
 title: East Grinstead
 website: ''
 established_date: 2019/02
-status: Starting
+status: Active
 last_update: 04/2019
 categories: South-East
 url: https://lug.org.uk/node/117

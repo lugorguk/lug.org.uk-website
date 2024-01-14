@@ -3,7 +3,7 @@ layout: lug
 title: Lincolnshire
 website: https://lincslug.org.uk/
 established_date: ''
-status: Starting
+status: Active
 last_update: 03/2014
 categories: East-Midlands
 url: https://lug.org.uk/node/59

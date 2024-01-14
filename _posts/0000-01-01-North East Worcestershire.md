@@ -3,7 +3,7 @@ layout: lug
 title: North-East Worcestershire
 website: https://www.new.lug.org.uk/
 established_date: 2011/01
-status: Starting
+status: Active
 last_update: 12/2011
 categories: West-Midlands
 url: https://lug.org.uk/node/177

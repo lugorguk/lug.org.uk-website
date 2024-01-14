@@ -2,7 +2,7 @@
 layout: lug
 title: West Lothian
 established_date: 2011/12
-status: Starting
+status: Active
 last_update: 12/2011
 categories: Scotland
 url: https://lug.org.uk/node/171
