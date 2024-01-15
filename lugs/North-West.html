@@ -4,20 +4,45 @@ layout: default
 permalink: lugs/North-West/
 is_regional: yes
 ---
+  {% assign sortedPosts = site.categories.North-West | sort: 'title' %}
+  {% assign postStatus = "Active" | split: "," %}
+  {% for post in sortedPosts %}
+  {% unless postStatus contains post.status %}
+  {% assign postStatus = postStatus | push: post.status %}
+  {% endunless %}
+  {% endfor %}
+  {% assign statusCount = postStatus.size %}
   <table width=100%>
     <thead>
       <tr>
         <th>Title</th>
-        <!-- <th>Website</th> -->
         <th>Established</th>
-        <th>Status</th>
+        <th>
+          {% if statusCount == 1 %}
+            Status: {% for status in postStatus %}{{ status }}{% endfor %}
+          {% else %}
+            <label for="statusFilter">Status:</label>
+            <select id="statusFilter">
+              {% for status in postStatus %}
+              <option value="{{ status }}"{% if status == "Active" %} selected="selected"{% endif %}>{{ status }}</option>
+              {% endfor %}
+              <option value="all">All</option>
+            </select>
+          {% endif %}
+        </th>
         <th>Last updated</th>
         <th>Region</th>
       </tr>
     </thead>
     <tbody>
-    {% assign sortedPosts = site.categories.North-West | sort: 'title' %}{% for post in sortedPosts %}
-      <tr{% cycle ' style="background-color: #f2f2f2"','' %}>
+    {% for post in sortedPosts %}
+      {% assign this_post_status = post.status | default: 'Active' %}
+      {% if this_post_status == 'Active' %}
+      {% assign style='' %}
+      {% else %}
+      {% assign style='display: none;' %}
+      {% endif %}
+      <tr style="{{ style }}{% cycle ' background-color: #f2f2f2','' %}" class="{{ this_post_status }}">
         <th><a href="{{ post.url }}">{{ post.title | escape }}</a></th>
         <!-- <td>{% if post.website and post.website != '' %}<a href="{{ post.website }}">{{ post.website }}</a>{% endif %}</td> -->
         <td>{% if post.established_date and post.established_date != '' %}{{ post.established_date | date: "%Y/%m" }}{% endif %}</td>
