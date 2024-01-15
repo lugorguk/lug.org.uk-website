@@ -5,7 +5,7 @@ permalink: lugs/Scotland/
 is_regional: yes
 ---
   {% assign sortedPosts = site.categories.Scotland | sort: 'title' %}
-  {% assign postStatus = "" | split: "," %}
+  {% assign postStatus = "Active" | split: "," %}
   {% for post in sortedPosts %}
   {% unless postStatus contains post.status %}
   {% assign postStatus = postStatus | push: post.status %}
@@ -23,10 +23,10 @@ is_regional: yes
           {% else %}
             <label for="statusFilter">Status:</label>
             <select id="statusFilter">
-              <option value="all">All</option>
               {% for status in postStatus %}
-              <option value="{{ status }}">{{ status }}</option>
+              <option value="{{ status }}"{% if status == "Active" %} selected="selected"{% endif %}>{{ status }}</option>
               {% endfor %}
+              <option value="all">All</option>
             </select>
           {% endif %}
         </th>
@@ -36,7 +36,7 @@ is_regional: yes
     </thead>
     <tbody>
     {% for post in sortedPosts %}
-      <tr{% cycle ' style="background-color: #f2f2f2"','' %} class="{{ post.status | default: 'Active'}}">
+      <tr style="{{ style }}{% cycle ' background-color: #f2f2f2','' %}" class="{{ this_post_status }}">
         <th><a href="{{ post.url }}">{{ post.title | escape }}</a></th>
         <!-- <td>{% if post.website and post.website != '' %}<a href="{{ post.website }}">{{ post.website }}</a>{% endif %}</td> -->
         <td>{% if post.established_date and post.established_date != '' %}{{ post.established_date | date: "%Y/%m" }}{% endif %}</td>
