@@ -4,7 +4,7 @@ title: Leicester
 website: https://www.leicester.lug.org.uk/
 established_date: 1999/09
 status: Active
-last_update: 12/2009
+last_update: 01/2024
 categories: East-Midlands
 url: https://lug.org.uk/node/57
 contact_address: mailto:clive@leicester.lug.org.uk
