@@ -19,7 +19,7 @@ is_regional: yes
         <th>Established</th>
         <th>
           {% if statusCount == 1 %}
-            Status: {% for status in postStatus %}{{ status }}{% endfor %}: {% for status in postStatus %}{{ status }}{% endfor %}
+            Status: {% for status in postStatus %}{{ status }}{% endfor %}
           {% else %}
             <label for="statusFilter">Status:</label>
             <select id="statusFilter">
