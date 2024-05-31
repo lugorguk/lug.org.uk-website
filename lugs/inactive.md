@@ -5,4 +5,4 @@ permalink: lugs/inactive/
 is_regional: yes
 notes: Yes, this is not, strictly speaking, a "regional" page, but it's the easiest way to remove it from the header bar!
 ---
-I'm sorry, this LUG has wrapped up and is no longer in-service. To restart this LUG, please [apply](/apply/).
+Sadly this LUG is no longer active. If you wish to reestablish this LUG, please [apply](/apply/) for lug.org.uk services or to update the listing for the LUG.
