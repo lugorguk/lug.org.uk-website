@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Herefordshire
-website: ''
+website: https://www.hlug.org.uk
 established_date: 2004/06
 status: Active
 last_update: 01/2024
