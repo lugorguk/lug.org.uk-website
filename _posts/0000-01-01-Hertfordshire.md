@@ -1,15 +1,15 @@
 ---
 layout: lug
 title: Hertfordshire
-website: https://www.herts.lug.org.uk
+website: 
 established_date: 2001/01
-status: Active
-last_update: 12/2009
+status: Inactive
+last_update: 2024/07
 categories: East
 url: https://lug.org.uk/node/50
-contact_address: mailto:herts@lug.org.uk
-contact: Nicolas Pike
-mailing_list: https://mailman.lug.org.uk/mailman/listinfo/herts/
+contact_address: 
+contact: 
+mailing_list: 
 permalink: lugs/East/Hertfordshire/
 location:
   latitude: 51.90
