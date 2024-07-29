@@ -29,14 +29,12 @@ Once you've decided on a name and coverage area for your LUG, you should:
 
 * Apply for use of lug.org.uk server facilities.
   * We will also automatically sign you up to the lugmaster mailing list, where most of the UK LUG organisers talk about issues of relevance to all LUGs in the UK.
-* Announce your achievements:
+* Announce your presence:
   * On the [uk.comp.os.linux](news:uk.comp.os.linux) newsgroup
   * Advise the UK Linux Magazines (for example, 'Linux Format' and 'Linux Magazine') of your new LUG details for publication
-  * Maybe on other local LUG mailing lists (with permission of course)
-  * Enjoy your new LUG, and have fun
+  * Maybe on other local LUG mailing lists (with permission, of course)
+  * Enjoy your new LUG, and have fun!
 
 Other resources:
 
 * Rick Moen's [User Group HOWTO](https://tldp.org/HOWTO/User-Group-HOWTO.html).
-
-
