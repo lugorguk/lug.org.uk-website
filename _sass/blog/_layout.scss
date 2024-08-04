@@ -33,7 +33,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -46,14 +46,14 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-     margin-right: 20px;
+      margin-right: 20px;
     }
   }
 
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit / 2;
+    right: calc($spacing-unit / 2);
     background-color: #aeaeae;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
@@ -95,21 +95,22 @@
     .trigger {
       padding-top: 20px;
     }
+
     .page-link {
       display: block;
       padding: 10px 10px;
+      margin-right: 10px;
+      margin-left: 10px;
 
       &:last-child {
         margin-bottom: 10px;
       }
+
       //Gaps between nav items, but not on the last one
       &:not(:last-child) {
-       margin-right: 10px;
+        margin-right: 10px;
       }
-      margin-right: 10px;
-      margin-left: 10px;
     }
-
   }
 }
 
