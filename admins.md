@@ -9,8 +9,8 @@ The current team of administrators are:
 |------|-------------|
 | Ralph Corderoy | No |
 | [Jon Spriggs](mailto:jon@sprig.gs) | [Yes](https://keybase.io/JonTheNiceGuy) |
-| Alasdair Kergon | [Yes](http://keys.gnupg.net/pks/lookup?search=0x28F50196C43802EB&fingerprint=on&op=index) |
-| [Gavin Westwood](mailto:lug2019@gavinwestwood.uk) | No |
+| Alasdair Kergon | [Yes](https://keys.openpgp.org/vks/v1/by-fingerprint/FD3F06EACF7634AE9D6369D128F50196C43802EB) |
+| [Gavin Westwood](mailto:lug2024@gavinwestwood.co.uk) | No |
 
 They may be contacted en masse through the [administrators mailing list](mailto:admin@lug.org.uk).
 
