@@ -26,10 +26,12 @@
 {% if my_page.title %}
 {% if my_page.title contains "404" or my_page.is_home or my_page.is_regional %}
 {% else %}
-<a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}" style="color: #ffffff;">{{ my_page.title | escape }}</a>
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}" style="color: #ffffff;">{{ my_page.title | escape }}</a>
 {% endif %}
 {% endif %}
-{% endfor %}</div>
+{% endfor %}
+          <a href="https://status.lug.org.uk/" target="_blank" style="color: #ffffff;">Status</a>
+        </div>
       </nav>
     {% endif %}
   </div>
