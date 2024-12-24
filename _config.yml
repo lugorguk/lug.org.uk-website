@@ -26,7 +26,7 @@ permalink: /:title.html
 google_analytics:
 
 # jekyll-theme-simple-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 jekyll-theme-simple-blog:
   date_format: "%Y-%m-%d"
 
