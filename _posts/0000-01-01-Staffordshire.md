@@ -4,7 +4,7 @@ title: Staffordshire
 website: https://staffslug.org.uk/
 established_date: 1999/03
 status: Active
-last_update: 2019/08
+last_update: 2025/04
 categories: West-Midlands
 url: https://lug.org.uk/node/164
 contact_address: mailto:info@staffslug.org.uk

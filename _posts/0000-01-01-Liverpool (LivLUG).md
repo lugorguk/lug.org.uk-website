@@ -4,7 +4,7 @@ title: Liverpool (LivLUG)
 website: https://livlug.org.uk/
 established_date: 2004/11
 status: Active
-last_update: 01/2024
+last_update: 2025/04
 categories: North-West
 url: https://lug.org.uk/node/82
 contact_address: mailto:neil@stfw.net

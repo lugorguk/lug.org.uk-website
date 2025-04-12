@@ -4,7 +4,7 @@ title: Shropshire
 website: https://shropshirelug.wordpress.com/
 established_date: 2000/02
 status: Active
-last_update: 01/2024
+last_update: 2025/04
 categories: West-Midlands
 url: https://lug.org.uk/node/163
 contact_address: mailto:davekh@gmail.com

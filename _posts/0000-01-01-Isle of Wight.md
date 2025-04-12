@@ -2,9 +2,9 @@
 layout: lug
 title: Isle of Wight
 website: https://iwlug.weebly.com
-established_date: ''
+established_date: 
 status: Active
-last_update: 01/2024
+last_update: 2025/04
 categories: South-East
 url: https://lug.org.uk/node/186
 contact_address: mailto:rogerskid@zen.co.uk
