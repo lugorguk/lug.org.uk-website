@@ -4,7 +4,7 @@ title: Portsmouth and South-East Hampshire
 website: https://portsmouth.lug.org.uk
 established_date: 2005/01
 status: Active
-last_update: 01/2024
+last_update: 2025/04
 categories: South-East
 url: https://lug.org.uk/node/128
 contact_address: mailto:paul@aptanet.com
