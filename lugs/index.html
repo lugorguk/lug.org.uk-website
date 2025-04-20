@@ -1,6 +1,6 @@
 ---
 title: All LUGs
-layout: default
+layout: list
 ---
   {% assign sortedPosts = site.posts | sort: 'title' %}
   {% assign postStatus = "Active" | split: "," %}
@@ -52,4 +52,3 @@ layout: default
     {% endfor %}
     </tbody>
   </table>
-
