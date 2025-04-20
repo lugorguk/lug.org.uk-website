@@ -3,7 +3,7 @@ layout: default
 ---
 {{ content }}
 <script type="text/javascript">
-  document.getElementById('statusFilter')?.addEventListener('change', function () {
+  document.getElementById('statusFilter').addEventListener('change', function () {
     var selectedStatus = this.value;
     var rows = document.querySelectorAll('tbody tr');
 
