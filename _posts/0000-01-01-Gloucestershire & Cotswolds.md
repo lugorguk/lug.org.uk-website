@@ -4,7 +4,7 @@ title: Gloucestershire & Cotswolds
 website: ''
 established_date: 2000/06
 status: Active
-last_update: 12/2009
+last_update: 2025/04
 categories: South-West
 url: https://lug.org.uk/node/144
 contact_address: mailto:glynd@walmore.com
