@@ -78,23 +78,6 @@
       }
     </script>
 
-    {% if page.layout == 'page' or page.layout == 'category' %}
-    <script type="text/javascript">
-      document.getElementById('statusFilter').addEventListener('change', function () {
-        var selectedStatus = this.value;
-        var rows = document.querySelectorAll('tbody tr');
-
-        rows.forEach(function (row) {
-          if (selectedStatus === 'all' || row.classList.contains(selectedStatus)) {
-            row.style.display = '';
-          } else {
-            row.style.display = 'none';
-          }
-        });
-      });
-    </script>
-    {% endif %}
-
     <section class="page-header" style="padding-top: {{ header-padding }}; padding-bottom: {{ header-padding-bottom }}; background: linear-gradient(0deg,rgba(0,0,0,0.2),rgba(0,0,0,0.0)), url('{{ site.baseurl }}{{ page.header.image | default: site.header.image }}') center center repeat;">
       <h1 class="project-name">{{ header_title }}</h1>
       <h2 class="project-tagline">{{ page-tagline }}</h2>
@@ -102,8 +85,6 @@
 
     <section class="main-content">
       {{ content }}
-
-      {{ page.layout }}
 
       {% include footer.html %}
     </section>
