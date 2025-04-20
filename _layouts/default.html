@@ -36,8 +36,8 @@
     <link rel="shortcut icon" href="{{ '/favicon.ico' | prepend: site.baseurl }}">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
-
   </head>
+  
   <body>
     {% include site-header.html %}
     {% assign header-padding = "40px" %}
@@ -56,36 +56,37 @@
       <h2 class="project-tagline">{{ page-tagline }}</h2>
     </section>
 
-
     <section class="main-content">
       {{ content }}
 
       {% include footer.html %}
-
     </section>
 
+    {% if page.layout == 'page' or page.layout == 'category' %}
     <script type="text/javascript">
       var menu = document.querySelector("nav.site-nav");
       var checkbox = document.getElementById("nav-trigger");
 
-      // close menu if click outside menu
+      // Close menu if click outside menu
       document.addEventListener("click", function(e) {
         if (menu != e.target &&
             ! isDescendant(menu, e.target)) {
           checkbox.checked = false;
         }
-
       }, false);
 
       function isDescendant(parent, child) {
-           var node = child.parentNode;
-           while (node != null) {
-               if (node == parent) {
-                   return true;
-               }
-               node = node.parentNode;
-           }
-           return false;
+        var node = child.parentNode;
+
+        while (node != null) {
+          if (node == parent) {
+              return true;
+          }
+
+          node = node.parentNode;
+        }
+
+        return false;
       }
 
       document.getElementById('statusFilter').addEventListener('change', function () {
@@ -100,7 +101,8 @@
           }
         });
       });
-
     </script>
+    {% endif %}
+
   </body>
 </html>
