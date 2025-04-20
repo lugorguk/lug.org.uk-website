@@ -36,8 +36,8 @@
     <link rel="shortcut icon" href="{{ '/favicon.ico' | prepend: site.baseurl }}">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
-
   </head>
+  
   <body>
     {% include site-header.html %}
     {% assign header-padding = "40px" %}
@@ -51,56 +51,42 @@
       {% assign page-tagline = page.tagline | default: page.repository.project_tagline | escape  %}
     {% endif %}
 
-    <section class="page-header" style="padding-top: {{ header-padding }}; padding-bottom: {{ header-padding-bottom }}; background: linear-gradient(0deg,rgba(0,0,0,0.2),rgba(0,0,0,0.0)), url('{{ site.baseurl }}{{ page.header.image | default: site.header.image }}') center center repeat;">
-      <h1 class="project-name">{{ header_title }}</h1>
-      <h2 class="project-tagline">{{ page-tagline }}</h2>
-    </section>
-
-
-    <section class="main-content">
-      {{ content }}
-
-      {% include footer.html %}
-
-    </section>
-
     <script type="text/javascript">
       var menu = document.querySelector("nav.site-nav");
       var checkbox = document.getElementById("nav-trigger");
 
-      // close menu if click outside menu
+      // Close menu if click outside menu
       document.addEventListener("click", function(e) {
         if (menu != e.target &&
             ! isDescendant(menu, e.target)) {
           checkbox.checked = false;
         }
-
       }, false);
 
       function isDescendant(parent, child) {
-           var node = child.parentNode;
-           while (node != null) {
-               if (node == parent) {
-                   return true;
-               }
-               node = node.parentNode;
-           }
-           return false;
-      }
+        var node = child.parentNode;
 
-      document.getElementById('statusFilter').addEventListener('change', function () {
-        var selectedStatus = this.value;
-        var rows = document.querySelectorAll('tbody tr');
-
-        rows.forEach(function (row) {
-          if (selectedStatus === 'all' || row.classList.contains(selectedStatus)) {
-            row.style.display = '';
-          } else {
-            row.style.display = 'none';
+        while (node != null) {
+          if (node == parent) {
+              return true;
           }
-        });
-      });
 
+          node = node.parentNode;
+        }
+
+        return false;
+      }
     </script>
+
+    <section class="page-header" style="padding-top: {{ header-padding }}; padding-bottom: {{ header-padding-bottom }}; background: linear-gradient(0deg,rgba(0,0,0,0.2),rgba(0,0,0,0.0)), url('{{ site.baseurl }}{{ page.header.image | default: site.header.image }}') center center repeat;">
+      <h1 class="project-name">{{ header_title }}</h1>
+      <h2 class="project-tagline">{{ page-tagline }}</h2>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      {% include footer.html %}
+    </section>
   </body>
 </html>
