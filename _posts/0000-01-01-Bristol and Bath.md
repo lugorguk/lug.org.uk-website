@@ -4,7 +4,7 @@ title: Bristol and Bath
 website: https://bristol.lug.org.uk
 established_date: 1998/06
 status: Active
-last_update: 02/2019
+last_update: 2025/05
 categories: South-West
 url: https://lug.org.uk/node/140
 contact_address: mailto:bristollug.contact@dfear.co.uk
