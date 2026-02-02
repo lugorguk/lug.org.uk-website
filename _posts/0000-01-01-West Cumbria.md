@@ -10,5 +10,5 @@ url:
 contact_address: mailto:lugmaster@westcumbria.lug.org.uk
 contact: Bran
 mailing_list: https://mailman.lug.org.uk/mailman/listinfo/westcumbria
-permalink: lugs/North-West/WestCumbria/
+permalink: lugs/North-West/West Cumbria/
 ---
