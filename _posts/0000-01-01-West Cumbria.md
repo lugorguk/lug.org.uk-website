@@ -3,7 +3,7 @@ layout: lug
 title: West Cumbria
 website: https://westcumbria.lug.org.uk
 established_date: 2026/01
-status: Starting
+status: Active
 last_update: 2026/01
 categories: North-West
 url: 
