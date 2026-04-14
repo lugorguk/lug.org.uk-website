@@ -1,7 +1,7 @@
 ---
 layout: lug
 title: Cowley Club, Brighton
-website: https://cowley.club/news/event/free-software-clinic/
+website: ''
 established_date: ''
 status: Active
 last_update: 10/2015
