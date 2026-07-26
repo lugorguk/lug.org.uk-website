@@ -1,15 +1,15 @@
 ---
 layout: lug
 title: Northants
-website: https://www.northants.lug.org.uk
+website: 
 established_date: 1998/09
-status: Active
-last_update: 12/2009
+status: Inactive
+last_update: 2026/07
 categories: East-Midlands
 url: https://lug.org.uk/node/65
-contact_address: mailto:info@northants.lug.org.uk
-contact: Kevin Taylor
-mailing_list: https://mailman.lug.org.uk/mailman/listinfo/northants/
+contact_address: 
+contact: 
+mailing_list: 
 permalink: lugs/East-Midlands/Northants/
 location:
   latitude: 52.24
