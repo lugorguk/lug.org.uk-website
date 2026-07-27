@@ -3,8 +3,8 @@ layout: lug
 title: Manchester Free Software
 website: https://libreplanet.org/wiki/Manchester
 established_date: 2007/11
-status: Active
-last_update: 10/2010
+status: Inactive
+last_update: 07/2026
 categories: North-West
 url: https://lug.org.uk/node/173
 contact_address: mailto:fsuk-manchester-team@nongnu.org
