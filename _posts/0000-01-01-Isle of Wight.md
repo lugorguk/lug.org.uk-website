@@ -7,8 +7,8 @@ status: Active
 last_update: 2025/04
 categories: South-East
 url: https://lug.org.uk/node/186
-contact_address: mailto:rogerskid@zen.co.uk
-contact: Roger Skidmore
+contact_address: https://iwlug.weebly.com/contact-iwlug.html
+contact: Roger Skidmore (via web form)
 permalink: lugs/South-East/Isle of Wight/
 location:
   latitude: 50.69
